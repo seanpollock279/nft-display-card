@@ -74,7 +74,7 @@ body {
 
 .title {
     font-family: "Outfit", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     color: hsl(0, 0%, 100%);
     margin-left: 20px;
     margin-top: 20px;
@@ -83,7 +83,7 @@ body {
 
 .title:hover {
     font-family: "Outfit", sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     color: hsl(178, 100%, 50%);
     margin-left: 20px;
     margin-top: 20px;
